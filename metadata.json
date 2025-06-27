@@ -1,0 +1,6 @@
+{
+  "name": "Telegram Chat Analyzer",
+  "description": "An application to analyze Telegram chat export files (JSON format), providing statistics and visualizations of message data.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
